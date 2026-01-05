@@ -44,6 +44,7 @@ This project aims to develop an interactive Excel dashboard that enables Cadre A
 - Improve strategic planning and sales optimisation.
 
 ### Dataset Fields
+<img width="1569" height="900" alt="image" src="https://github.com/user-attachments/assets/e0fdf0b9-a832-41f0-aa97-f5388ab4c68d" />
 The dataset used in this project includes:
 - Sales ID
 - Branch
