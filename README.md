@@ -1,4 +1,7 @@
 # Sales-Performance-Analysis-Overview-for-Cadre-Autos
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_y047vdy047vdy047 (1)" src="https://github.com/user-attachments/assets/aebb8dec-f864-4768-914d-febc76f11a89" />
+
 ## Table of contents
 - [Description](#description)
 - [Business Introduction](#business-introduction)
@@ -11,10 +14,6 @@
 
 ## Description
 This project aims to analyse customer sales patterns and performance trends across multiple branches, demographics, and product lines for Cadre Autos, an automobile sales company. Using Microsoft Excel, an interactive dashboard was developed to track total sales, customer demographics, brand and model performance, and time-based sales trends. Through this analysis, the dashboard provides clear visibility into sales performance, enabling Cadre Autos to optimise sales strategy, improve branch performance, and maximise revenue while strengthening overall business decision-making.
-
-
-<img width="1734" height="758" alt="image" src="https://github.com/user-attachments/assets/4df323e5-2705-462f-a7e4-4356950d1fed" />
-
 
 ### Business Introduction
 Cadre Autos is a multi-branch automobile sales company operating across several states, offering a wide range of vehicle brands and models. The company serves diverse customer segments and competes in a highly dynamic automotive market.
@@ -90,6 +89,9 @@ Data Analysis
 - Identified peak sales days and months
 
 ### Data Visualisation
+
+<img width="1734" height="758" alt="image" src="https://github.com/user-attachments/assets/4df323e5-2705-462f-a7e4-4356950d1fed" />
+
 The dashboard includes:
 - KPI summary cards
 - Sales by branch
