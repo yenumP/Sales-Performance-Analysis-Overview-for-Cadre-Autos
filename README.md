@@ -1,6 +1,7 @@
 # Sales-Performance-Analysis-Overview-for-Cadre-Autos
 
-<img width="1024" height="1024" alt="Gemini_Generated_Image_y047vdy047vdy047 (1)" src="https://github.com/user-attachments/assets/aebb8dec-f864-4768-914d-febc76f11a89" />
+<img width="1024" height="933" alt="image" src="https://github.com/user-attachments/assets/758ac9a6-b2a9-4f5b-bdc8-dcfad80ceccc" />
+
 
 ## Table of contents
 - [Description](#description)
